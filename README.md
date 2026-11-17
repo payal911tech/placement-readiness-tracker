@@ -8,7 +8,9 @@ A Python command-line tool built for the Industry Readiness Programme-II (CSE259
 2. Open your terminal in the project folder and run:
    ```bash
    python tracker.py
-   === Add New Student ===
+   ## Sample Output
+```text
+=== Add New Student ===
 Enter student name: Neha Sharma
 Enter roll number: CSE006
 Enter Aptitude score (0-100): 76
