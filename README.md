@@ -32,4 +32,3 @@ Top Scorer: Rohan Iyer (CSE005) - Average: 91.00
 Students Needing Extra Practice (Average < 40):
  - Ananya Gupta (CSE004): Average = 35.00
 
-4. scroll down, type `"Add complete README with purpose, instructions, and sample output"` as the commit message, and click the green **Commit changes** button. (This also counts as an extra meaningful commit in your history[span_1](start_span)[span_1](end_span)!)
